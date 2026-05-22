@@ -1,0 +1,13 @@
+Package: com.linmumu.mumupiano
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/com.linmumu.mumupiano_1.0_iphoneos-arm.deb
+Size: 4672674
+MD5sum: 34fdb42d514a503c2a7924549d99ceec
+SHA256: 412d5e8bd7f45c09869ccdea5564c08546702361d12cc7048e404d21180988ae
+Name: MuMu Piano Theme
+Description: 钢琴风格美化主题 for SnowBoard
+Section: Themes
+Author: linmumupro
+Maintainer: linmumupro
+Depends: com.spark.snowboard
